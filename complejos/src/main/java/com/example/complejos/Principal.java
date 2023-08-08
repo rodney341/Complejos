@@ -3,7 +3,7 @@ package com.example.complejos;
 public class Principal {
 
     public static void main(String[] main) {
-        ComplejoAmpliado z, w;
+        ComplejoAmpliado z, w,test;
         z = new ComplejoAmpliado(-1.5, 0.0);
         w = new ComplejoAmpliado(-1.2, 0.0);
         z.suma(w);
